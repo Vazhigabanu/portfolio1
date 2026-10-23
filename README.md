@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:21/10/2026
+## Date:
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -48,49 +48,10 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-```
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Vazhiga Banu Portfolio</title>
-</head>
-<body>
-    <center>
-        <img src="myphoto.jpeg" width="100" alt="My Photo">
-        <h1>VAZHIGA BANU S </h1>
-        <p>Saveetha Engineering College</p>
-    </center>
-    <hr>
 
-    <h2>About Me</h2>
-    <p> Hello! I am VAZHIGA BANU S, pursuing B.E. Computer
-        Science and Engineering at Saveetha Engineering College.
-        I am interested in programming, web development,
-        software development and emerging technologies.
-        I enjoy learning new skills and solving problems.</p>
-
-    <h2>Skills</h2>
-    <p>Python | C | HTML | JavaScript | Pandas</p>
-
-    <h2>Achievements</h2>
-    <p>TNEA Merit Scholarship Achiever 2025</p>
-    <p>100% Scholarship Recipient</p>
-
-    <h2>Activities</h2>
-    <p>Event Coordinator - Green Warriors Club</p>
-
-    <h2>Contact</h2>
-    <p>Email: vajihabanu32@gmail.com</p>
-
-    <center>
-        <p>Learning today, building tomorrow.</p>
-    </center>
-</body>
-</html>
-```
 
 ## OUTPUT
-<img width="1917" height="1198" alt="Screenshot 2026-10-21 143441" src="https://github.com/user-attachments/assets/7100a27d-c689-4730-b57d-a33ee19075a2" />
+
 
 
 ## RESULT
